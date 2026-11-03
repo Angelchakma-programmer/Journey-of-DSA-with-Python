@@ -65,7 +65,7 @@ print("The new list is :",new_list)
 #prolem 6:
 #find numbers have or not
 
-nums = [4, 9, 2, 1, 7, 11]
+nums = [4, 9, 2, 15, 7, 11]
 found = False
 for nub in nums:
     if nub == 15:
