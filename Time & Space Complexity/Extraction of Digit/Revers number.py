@@ -14,3 +14,5 @@ n = 6789
 
 res = int(str(n)[::-1])
 print(res)
+
+print("Cheking git and github connection")
